@@ -2,6 +2,9 @@
 
 ## 2024
 
+### 30th September
+1. Finished Labs 1,2,3,4,5,6
+   1. Topics on linux user and group.
 ### 14th September:
 1. Installed Oracle Virtual Machine on local server.
     ```md
