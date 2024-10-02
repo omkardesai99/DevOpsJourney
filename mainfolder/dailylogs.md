@@ -2,6 +2,11 @@
 
 ## 2024
 
+### 3rd October
+1. Finished DevOps Lab 7,8
+    1. 7 - User permissions
+    1. 8 - read methods
+
 ### 30th September
 1. Finished Labs 1,2,3,4,5,6
    1. Topics on linux user and group.
